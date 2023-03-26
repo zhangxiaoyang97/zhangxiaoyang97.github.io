@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://yoursite-url/cn/js%E5%9F%BA%E7%A1%80%E4%B9%8Binstanceof/</loc>
-    <lastmod>2023-03-26</lastmod>
+    <lastmod>2023-03-19</lastmod>
   </url>
   <url>
     <loc>http://yoursite-url/cn/js%E5%9F%BA%E7%A1%80%E4%B9%8B%E6%95%B0%E7%BB%84/</loc>
@@ -13,7 +13,7 @@
     <lastmod>2020-04-16</lastmod>
   </url>
   <url>
-    <loc>http://yoursite-url/cn/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://yoursite-url/backup/Hexo-Theme-LiveMyLife/</loc>
     <lastmod>2020-04-16</lastmod>
   </url>
 </urlset> 

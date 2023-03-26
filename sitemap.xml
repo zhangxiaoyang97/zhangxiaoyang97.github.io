@@ -4,7 +4,7 @@
   <url>
     <loc>http://yoursite-url/cn/js%E5%9F%BA%E7%A1%80%E4%B9%8Binstanceof/</loc>
     
-    <lastmod>2023-03-26</lastmod>
+    <lastmod>2023-03-19</lastmod>
     
   </url>
   
@@ -44,7 +44,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite-url/cn/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://yoursite-url/backup/Hexo-Theme-LiveMyLife/</loc>
     
     <lastmod>2020-04-16</lastmod>
     
@@ -74,14 +74,21 @@
 
   
   <url>
-    <loc>http://yoursite-url/tags/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://yoursite-url/tags/js/</loc>
     <lastmod>2023-03-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yoursite-url/tags/js/</loc>
+    <loc>http://yoursite-url/tags/basic/</loc>
+    <lastmod>2023-03-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/tags/Hexo-Theme-LiveMyLife/</loc>
     <lastmod>2023-03-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -104,14 +111,14 @@
 
   
   <url>
-    <loc>http://yoursite-url/categories/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://yoursite-url/categories/js/</loc>
     <lastmod>2023-03-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yoursite-url/categories/js/</loc>
+    <loc>http://yoursite-url/categories/Hexo-Theme-LiveMyLife/</loc>
     <lastmod>2023-03-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
