@@ -244,8 +244,6 @@
 
           
           
-          
-          
           <li>
             <a href="/about/">
               
@@ -256,15 +254,6 @@
           </li>
           
           
-          
-          <li>
-            <a href="/categories/">
-              
-              分类
-              
-              
-            </a>
-          </li>
           
           
           
@@ -283,6 +272,17 @@
             <a href="/tags/">
               
               标签
+              
+              
+            </a>
+          </li>
+          
+          
+          
+          <li>
+            <a href="/categories/">
+              
+              分类
               
               
             </a>
@@ -487,8 +487,11 @@
     </h3>
     <div class="post-content-preview">
       
-instanceof的原理:::warninginstanceof的原理我们要找一个对象的属性和方法的时候会从自身找起，自身找不到会以proto为连接点，在原型链上找，直到找到Object.prototype为Null 为止例如 test instenceof Testtest是不是由Test构造出来的，也就是你属于什么类型:::
-12345678function Test() &#123......
+instanceof的原理
+:::warning
+instanceof的原理我们要找一个对象的属性和方法的时候会从自身找起，自身找不到会以__proto__为连接点，在原型链上找，直到找到Object.prototype为Null 为止例如 test instenceof Testtest是不是由Test构造出来的，也就是你属于什么类型
+:::
+12345678function Test(......
     </div>
   </a>
   
@@ -515,6 +518,46 @@ instanceof的原理:::warninginstanceof的原理我们要找一个对象的属�
   <!-- top end -->
   
 
+  <a href="/cn/node.js的fs模块/">
+    <h2 class="post-title">
+      node.js的fs模块
+    </h2>
+    <h3 class="post-subtitle">
+      这是副标题
+    </h3>
+    <div class="post-content-preview">
+      
+1 fs文件系统
+fs(file system)模块可以实现与硬盘的交互，例如文件的创建、删除、重命名、移动、还有文件内容的写入、读取以及文件夹的相关操作
+
+2 写入文件
+123456789101112131415const fs = require(&#x27;fs&#x27;);// 异步写入fs.writeFile(&#x27;./写入.txt&#x27;, &#x27;你好&#x2......
+    </div>
+  </a>
+  
+  <p class="post-meta" style="margin: 10px 0;">
+    Posted by 懒猪🐷 on
+    2023-03-19
+  </p>
+  <div class="tags">
+    
+    <a href="/tags/#node.js" title="node.js">node.js</a>
+    
+    <a href="/tags/#fs" title="fs">fs</a>
+    
+  </div>
+  
+
+</div>
+<hr>
+
+<div class="post-preview">
+  
+  <!-- top start (article top hot config) -->
+  
+  <!-- top end -->
+  
+
   <a href="/cn/js基础之数组/">
     <h2 class="post-title">
       js基础之数组
@@ -525,7 +568,9 @@ instanceof的原理:::warninginstanceof的原理我们要找一个对象的属�
     <div class="post-content-preview">
       
 数组修改原数组的方法
-定义数组的三种方法12345678910111213141516var arr1 = []; // 字面量定义var arr2 = new Array();  // 构造函数定义var arr3 = Array();// 所有数组的方法都继承于Array.prototypevar arr4 = [, , , , ,]; // [empty, empty, empty,......
+
+定义数组的三种方法
+12345678910111213141516var arr1 = []; // 字面量定义var arr2 = new Array();  // 构造函数定义var arr3 = Array();// 所有数组的方法都继承于Array.prototypevar arr4 = [, , , , ,]; // [empty, empty, empt......
     </div>
   </a>
   
@@ -599,7 +644,11 @@ instanceof的原理:::warninginstanceof的原理我们要找一个对象的属�
     
     
     
-    <a href="/tags/#Hexo-Theme-LiveMyLife" title="Hexo-Theme-LiveMyLife" rel="2">Hexo-Theme-LiveMyLife</a>
+    <a href="/tags/#node.js" title="node.js" rel="1">node.js</a>
+    
+    
+    
+    <a href="/tags/#fs" title="fs" rel="1">fs</a>
     
     
     
@@ -665,16 +714,12 @@ instanceof的原理:::warninginstanceof的原理我们要找一个对象的属�
       <li>js基础之instanceof</li>
     </a>
     
+    <a href="node.js%E7%9A%84fs%E6%A8%A1%E5%9D%97/">
+      <li>node.js的fs模块</li>
+    </a>
+    
     <a href="js%E5%9F%BA%E7%A1%80%E4%B9%8B%E6%95%B0%E7%BB%84/">
       <li>js基础之数组</li>
-    </a>
-    
-    <a href="../en/Hexo-Theme-LiveMyLife/">
-      <li>Hexo-Theme-LiveMyLife</li>
-    </a>
-    
-    <a href="../backup/Hexo-Theme-LiveMyLife/">
-      <li>Hexo-Theme-LiveMyLife</li>
     </a>
     
   </ul>
@@ -705,7 +750,7 @@ instanceof的原理:::warninginstanceof的原理我们要找一个对象的属�
 
 <h5><a href="/archives/">archives</a></h5>
 <div class="widget">
-  <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="../archives/2023/03/">March 2023</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="../archives/2020/04/">April 2020</a><span class="archive-list-count">2</span></li></ul>
+  <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="../archives/2023/03/">March 2023</a><span class="archive-list-count">3</span></li></ul>
 </div>
 
 
@@ -721,8 +766,8 @@ instanceof的原理:::warninginstanceof的原理我们要找一个对象的属�
       <li>js</li>
     </a>
     
-    <a href="/categories/#Hexo-Theme-LiveMyLife">
-      <li>Hexo-Theme-LiveMyLife</li>
+    <a href="/categories/#node">
+      <li>node</li>
     </a>
     
   </ul>

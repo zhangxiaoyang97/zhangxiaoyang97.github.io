@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>http://yoursite-url/cn/node.js%E7%9A%84fs%E6%A8%A1%E5%9D%97/</loc>
+    
+    <lastmod>2023-03-19</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite-url/cn/js%E5%9F%BA%E7%A1%80%E4%B9%8B%E6%95%B0%E7%BB%84/</loc>
     
     <lastmod>2023-03-19</lastmod>
@@ -37,20 +44,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite-url/en/Hexo-Theme-LiveMyLife/</loc>
-    
-    <lastmod>2020-04-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite-url/backup/Hexo-Theme-LiveMyLife/</loc>
-    
-    <lastmod>2020-04-16</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite-url/archive/index.html</loc>
     
     <lastmod>2017-03-20</lastmod>
@@ -67,7 +60,7 @@
 
   <url>
     <loc>http://yoursite-url/</loc>
-    <lastmod>2023-03-26</lastmod>
+    <lastmod>2023-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,35 +68,42 @@
   
   <url>
     <loc>http://yoursite-url/tags/js/</loc>
-    <lastmod>2023-03-26</lastmod>
+    <lastmod>2023-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/basic/</loc>
-    <lastmod>2023-03-26</lastmod>
+    <lastmod>2023-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yoursite-url/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2023-03-26</lastmod>
+    <loc>http://yoursite-url/tags/node-js/</loc>
+    <lastmod>2023-03-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/tags/fs/</loc>
+    <lastmod>2023-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/array/</loc>
-    <lastmod>2023-03-26</lastmod>
+    <lastmod>2023-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/sort/</loc>
-    <lastmod>2023-03-26</lastmod>
+    <lastmod>2023-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -112,14 +112,14 @@
   
   <url>
     <loc>http://yoursite-url/categories/js/</loc>
-    <lastmod>2023-03-26</lastmod>
+    <lastmod>2023-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yoursite-url/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2023-03-26</lastmod>
+    <loc>http://yoursite-url/categories/node/</loc>
+    <lastmod>2023-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
