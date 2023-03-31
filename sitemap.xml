@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite-url/cn/js%E5%9F%BA%E7%A1%80%E4%B9%8B%E7%BB%A7%E6%89%BF/</loc>
+    
+    <lastmod>2023-03-31</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite-url/cn/js%E5%9F%BA%E7%A1%80%E4%B9%8Binstanceof/</loc>
     
     <lastmod>2023-03-19</lastmod>
@@ -60,7 +67,7 @@
 
   <url>
     <loc>http://yoursite-url/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2023-03-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -68,42 +75,42 @@
   
   <url>
     <loc>http://yoursite-url/tags/js/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2023-03-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/basic/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2023-03-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/node-js/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2023-03-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/fs/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2023-03-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/array/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2023-03-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/sort/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2023-03-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -112,14 +119,14 @@
   
   <url>
     <loc>http://yoursite-url/categories/js/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2023-03-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/categories/node/</loc>
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2023-03-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
